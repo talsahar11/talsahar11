@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tal Sahar
+- 👀 I’m interested in pixel manipulations and image processing.
+- 🌱 I’m currently learning java, c++.
+- 📫 How to reach me: mail: talsahar11@gmail.com
