@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tal Sahar
 - 👀 I’m interested in AI and image processing.
-- 🌱 I’m currently learning java, c++.
+- 🌱 I’m currently learning c, java, c++ amd python.
 - 📫 How to reach me: mail: talsahar11@gmail.com
